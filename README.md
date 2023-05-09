@@ -1,4 +1,4 @@
-# Learn CSS with CodeBytes
+# Learn JavaScript with CodeBytes
 You can find all the code from our Learn CSS series here!
 
 ## The Fundamentals
