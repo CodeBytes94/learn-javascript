@@ -1,7 +1,6 @@
 # Learn JavaScript with CodeBytes
 You can find all the code from our Learn CSS series here!
 
-## The Fundamentals
 | Lesson | Description | Link
 | :---: | ----- | --- |
 | 01 | Introduction to JavaScript | [View Code](https://github.com/CodeBytes94/learn-javascript/blob/main/the-fundamentals/introduction-to-javascript.js)
