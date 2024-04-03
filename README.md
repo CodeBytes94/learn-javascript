@@ -1,5 +1,5 @@
 # Learn JavaScript with CodeBytes
-You can find all the code from our Learn CSS series here!
+You can find all the code from our Learn JavaScript series here!
 
 | Lesson | Description | Link
 | :---: | ----- | --- |
