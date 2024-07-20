@@ -7,6 +7,7 @@ You can find all the code from our Learn JavaScript series here!
 | 02 | Where To Write JavaScript | [View Code](https://github.com/CodeBytes94/learn-javascript/tree/main/the-fundamentals/where-to-write-javascript)
 | 03 | JavaScript Outputs | [View Code](https://github.com/CodeBytes94/learn-javascript/tree/main/the-fundamentals/javascript-outputs)
 | 04 | JavaScript Syntax & Statements | [View Code](https://github.com/CodeBytes94/learn-javascript/tree/main/the-fundamentals/javascript-syntax-and-statements)
+| 05 | JavaScript Variables | [View Code](https://github.com/CodeBytes94/learn-javascript/tree/main/05-javascript-variables-let-const-var)
 
 For full tutorials visit our YouTube channel!
 - YouTube: https://www.youtube.com/playlist?list=PLvvVSYZ1bhvLvjQOIa9GUX3pHhFXMbA21
